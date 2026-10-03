@@ -1,5 +1,5 @@
 # Atlas32.img
-## WARNING DO NOT USE BAT FILES USE SH SCRIPTS ELSE ERROR
+## There is a error with the batch scripts, please use linux or use wsl
 
 ![Logo](logo.png)
 
